@@ -1,0 +1,12 @@
+@import './landing-page.css';
+:root{
+    --background-color:black;
+    --text-color:white;
+    --xs:10px;
+    --sm:20px;
+    --md:50px;
+    --light:300;
+    --medium:500;
+    --normal:600;
+    --large:800;
+}
