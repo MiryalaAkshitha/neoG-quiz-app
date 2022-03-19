@@ -1,7 +1,12 @@
 @import './landing-page.css';
+@import './rules/rules.css';
+@import './questions/questions.css';
+@import './results/results.html';
 :root{
     --background-color:black;
     --text-color:white;
+    --success-color:green;
+    --quit-color:red;
     --xs:10px;
     --sm:20px;
     --md:50px;
